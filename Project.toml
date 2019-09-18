@@ -1,0 +1,13 @@
+name = "SossModels"
+uuid = "d6de4cab-e79b-46e9-9626-4f67bf27fdc5"
+authors = ["Chad Scherrer"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
